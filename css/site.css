@@ -17,12 +17,12 @@ h5 {font-weight: lighter; color: #14AA37; text-transform: uppercase;}
 ul.nav {list-style: none; margin: 0px; padding: 0px; color: #14AA37;}
 ul.nav li {display: inline; font-size: 12px; letter-spacing: .1em; text-transform: uppercase; padding-right: 4px;}
 ul.nav a {color: #14AA37; border-bottom: 1px dotted #14AA37;}
-ul.nav a:hover {color: #14AA37; border-color: #14AA37;}
+ul.nav a:hover {color: #14AA37; border-color: #000000;}
 
 #info, header {padding-right: 10px; padding-left: 10px;}
 #info a {color: #000000; border-color: #14AA37;}
-#info a:hover {color: #000000; border-color: #000000;}
-#info a {color: #14AA37; border-color: #14AA37;}
+#info a:hover {color: #000000; border-color: #14AA37;}
+#info a {color: #000000; border-color: #14AA37;}
 #info p {font-weight: lighter; font-size: 12px; line-height: 1.5em;}
 
 input:not([type=submit]):not([type=file]):not([type=checkbox]) {margin: 19px 4px; border: none;
@@ -30,7 +30,7 @@ input:not([type=submit]):not([type=file]):not([type=checkbox]) {margin: 19px 4px
   font-family: Source Sans Pro; color: #14AA37; font-size: 13px; height: 22px;}
 
 .sml-button {cursor: pointer;padding: 5px 7px; background-color: #14AA37; font-weight: 700; font-size: 12px;
-  text-transform: uppercase; letter-spacing: .1em; text-align: center; color: #000000;}
+  text-transform: uppercase; letter-spacing: .1em; text-align: center; color: #14AA37;}
 .sml-button:hover {opacity: .75;}
 .button-pressed {background: #14AA37;}
 
@@ -43,12 +43,12 @@ input:not([type=submit]):not([type=file]):not([type=checkbox]) {margin: 19px 4px
 #tools.show-available .not-available { display: none; }
 #tools .filtered { display: none; }
 
-.tool-box { background: #14AA37; color: #14AA37; padding: 12px; margin-bottom: 16px; box-sizing: border-box;
+.tool-box { background: #000000; color: #14AA37; padding: 12px; margin-bottom: 16px; box-sizing: border-box;
    -mox-box-sizing:border-box; -webkit-column-break-inside:avoid; -moz-column-break-inside:avoid;
    display: table; width: 100%;}
 .tool-box a {border-color: #000000;}
-.tool-box.available {background: #000000; color: #000000;}
-.tool-box.available a {border-color: #000000;}
+.tool-box.available {background: #000000; color: #14AA37;}
+.tool-box.available a {border-color: #14AA37;}
 .tool-box:nth-child(1) {margin-top: 0;}
 .tool-box-tool { display: block; font-size: 26px; padding: 10px 0; text-align: center; width: 100%;
   cursor: pointer; font-weight: 700;}
