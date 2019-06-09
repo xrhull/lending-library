@@ -3,7 +3,7 @@ body {font-family: "Source Sans Pro", Franklin Gothic Book, Helvetica, Arial, sa
 a {text-decoration: none; color: inherit; border-bottom: 1px dotted;}
 a:hover, .tool-box.available a:hover, .tool-box a:hover {color: #55b6ff; border-color: #F7EE6A;}
 small {font-weight: 700; font-size: 11px; letter-spacing: .08em;}
-h1 {font-size: 68px; color: #0087ff; margin: 30px 0px 20px 0px;}
+h1 {font-size: 68px; color: #F7EE6A; margin: 30px 0px 20px 0px;}
 h4, h5 {margin: 4px 0px; }
 h5 {font-weight: lighter; color: #0087ff; text-transform: uppercase;}
 .container {max-width: 870px; margin: 0px auto; overflow: auto; padding: 20px 0px;}
