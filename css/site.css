@@ -16,7 +16,7 @@ h5 {font-weight: lighter; color: #14AA37; text-transform: uppercase;}
 
 ul.nav {list-style: none; margin: 0px; padding: 0px; color: #14AA37;}
 ul.nav li {display: inline; font-size: 12px; letter-spacing: .1em; text-transform: uppercase; padding-right: 4px;}
-ul.nav a {color: #0087ff; border-bottom: 1px dotted #0087ff;}
+ul.nav a {color: #14AA37; border-bottom: 1px dotted #0087ff;}
 ul.nav a:hover {color: #55b6ff; border-color: #55b6ff;}
 
 #info, header {padding-right: 10px; padding-left: 10px;}
@@ -29,7 +29,7 @@ input:not([type=submit]):not([type=file]):not([type=checkbox]) {margin: 19px 4px
   border-bottom: 1px solid #0087ff; background-color: transparent; padding: 0px;
   font-family: Source Sans Pro; color: #14AA37; font-size: 13px; height: 22px;}
 
-.sml-button {cursor: pointer;padding: 5px 7px; background-color: #0087ff; font-weight: 700; font-size: 12px;
+.sml-button {cursor: pointer;padding: 5px 7px; background-color: #14AA37; font-weight: 700; font-size: 12px;
   text-transform: uppercase; letter-spacing: .1em; text-align: center; color: #fff;}
 .sml-button:hover {opacity: .75;}
 .button-pressed {background: #55b6ff;}
