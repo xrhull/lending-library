@@ -35,7 +35,7 @@ input:not([type=submit]):not([type=file]):not([type=checkbox]) {margin: 19px 4px
 .button-pressed {background: #14AA37;}
 
 /* #14AA37 blue
-   #0087ff; green */
+   #000000; green */
 
 #tools {-webkit-column-count:3; -webkit-column-gap : 16px; -webkit-column-width: 250px; -moz-column-count:3;
   -moz-column-gap : 16px; -moz-column-width: 250px;}
@@ -47,8 +47,8 @@ input:not([type=submit]):not([type=file]):not([type=checkbox]) {margin: 19px 4px
    -mox-box-sizing:border-box; -webkit-column-break-inside:avoid; -moz-column-break-inside:avoid;
    display: table; width: 100%;}
 .tool-box a {border-color: #000000;}
-.tool-box.available {background: #000000; color: #fff;}
-.tool-box.available a {border-color: #fff;}
+.tool-box.available {background: #000000; color: #000000;}
+.tool-box.available a {border-color: #000000;}
 .tool-box:nth-child(1) {margin-top: 0;}
 .tool-box-tool { display: block; font-size: 26px; padding: 10px 0; text-align: center; width: 100%;
   cursor: pointer; font-weight: 700;}
@@ -57,9 +57,9 @@ input:not([type=submit]):not([type=file]):not([type=checkbox]) {margin: 19px 4px
 .tool-box li {margin: 10px 0px;}
 
 .tool-box-borrow {display: block; box-sizing: border-box; -mox-box-sizing: border-box; position: relative;
-  background: #fff; color: #14AA37; padding: 4px 0px; letter-spacing: .08em; font-weight: 900;
+  background: #000000; color: #14AA37; padding: 4px 0px; letter-spacing: .08em; font-weight: 900;
   text-align: center; width: 100%; margin: 12px 0px; cursor: pointer; border: 1px solid transparent;}
-.tool-box-borrow:hover { border: 1px solid #000000; color: #fff; background-color: #000000;}
+.tool-box-borrow:hover { border: 1px solid #000000; color: #000000; background-color: #000000;}
 
 .tool-box-borrowed {display: block; box-sizing: border-box; -moz-box-sizing: border-box; position: relative;
   background-color: #000000; color: #000000; padding: 4px 0px; letter-spacing: .08em; font-weight: 900;
