@@ -17,10 +17,10 @@ h5 {font-weight: lighter; color: #14AA37; text-transform: uppercase;}
 ul.nav {list-style: none; margin: 0px; padding: 0px; color: #14AA37;}
 ul.nav li {display: inline; font-size: 12px; letter-spacing: .1em; text-transform: uppercase; padding-right: 4px;}
 ul.nav a {color: #14AA37; border-bottom: 1px dotted #0087ff;}
-ul.nav a:hover {color: #55b6ff; border-color: #55b6ff;}
+ul.nav a:hover {color: #14AA37; border-color: #14AA37;}
 
 #info, header {padding-right: 10px; padding-left: 10px;}
-#info a {color: #55b6ff; border-color: #55b6ff;}
+#info a {color: #14AA37; border-color: #14AA37;}
 #info a:hover {color: #55b6ff; border-color: #55b6ff;}
 #info a {color: #333; border-color: #333;}
 #info p {font-weight: lighter; font-size: 12px; line-height: 1.5em;}
