@@ -30,7 +30,7 @@ input:not([type=submit]):not([type=file]):not([type=checkbox]) {margin: 19px 4px
   font-family: Source Sans Pro; color: #14AA37; font-size: 13px; height: 22px;}
 
 .sml-button {cursor: pointer;padding: 5px 7px; background-color: #14AA37; font-weight: 700; font-size: 12px;
-  text-transform: uppercase; letter-spacing: .1em; text-align: center; color: #fff;}
+  text-transform: uppercase; letter-spacing: .1em; text-align: center; color: #000000;}
 .sml-button:hover {opacity: .75;}
 .button-pressed {background: #14AA37;}
 
