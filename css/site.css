@@ -1,7 +1,7 @@
 body {font-family: "Source Sans Pro", Franklin Gothic Book, Helvetica, Arial, sans-serif; font-weight: lighter;
   border: 52px #14AA37 solid; margin: 0px; padding: 20px 20px 200px 20px;}
 a {text-decoration: none; color: inherit; border-bottom: 1px dotted;}
-a:hover, .tool-box.available a:hover, .tool-box a:hover {color: #14AA37; border-color: #F7EE6A;}
+a:hover, .tool-box.available a:hover, .tool-box a:hover {color: #14AA37; border-color: #14AA37;}
 small {font-weight: 700; font-size: 11px; letter-spacing: .08em;}
 h1 {font-size: 68px; color: #14AA37; margin: 30px 0px 20px 0px;}
 h4, h5 {margin: 4px 0px; }
