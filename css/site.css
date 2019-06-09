@@ -57,7 +57,7 @@ input:not([type=submit]):not([type=file]):not([type=checkbox]) {margin: 19px 4px
 .tool-box li {margin: 10px 0px;}
 
 .tool-box-borrow {display: block; box-sizing: border-box; -mox-box-sizing: border-box; position: relative;
-  background: #fff; color: #0087ff; padding: 4px 0px; letter-spacing: .08em; font-weight: 900;
+  background: #fff; color: #14AA37; padding: 4px 0px; letter-spacing: .08em; font-weight: 900;
   text-align: center; width: 100%; margin: 12px 0px; cursor: pointer; border: 1px solid transparent;}
 .tool-box-borrow:hover { border: 1px solid #55b6ff; color: #fff; background-color: #55b6ff;}
 
