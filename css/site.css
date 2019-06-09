@@ -43,7 +43,7 @@ input:not([type=submit]):not([type=file]):not([type=checkbox]) {margin: 19px 4px
 #tools.show-available .not-available { display: none; }
 #tools .filtered { display: none; }
 
-.tool-box { background: #E0E0DF; color: #5A5A5A; padding: 12px; margin-bottom: 16px; box-sizing: border-box;
+.tool-box { background: #14AA37; color: #5A5A5A; padding: 12px; margin-bottom: 16px; box-sizing: border-box;
    -mox-box-sizing:border-box; -webkit-column-break-inside:avoid; -moz-column-break-inside:avoid;
    display: table; width: 100%;}
 .tool-box a {border-color: #9B9A9A;}
